@@ -1,0 +1,72 @@
+.task-list {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 10px;
+
+}
+
+
+.task-block {
+  background-color: #b0def4;
+  width: 200px;
+  padding: 10px;
+  border: 2px solid #070707;
+  text-align: center;
+  
+}
+.title {
+  text-align: center;
+ 
+}
+.task {
+  text-align: center;
+  background-color: #e8d2d9;
+  border: 3px solid #080707ec;
+  margin-bottom: 5px;
+  padding: 20px;
+}
+
+
+
+/* Customize the appearance of task blocks and tasks as per your requirements */
+
+
+
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
